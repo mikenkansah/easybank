@@ -6,7 +6,7 @@ const Navbar = () => {
      <picture className="pt-3">
         <img src={logo} alt=""/>
      </picture>
-     <div className=" text-lg mx-10 pt-2 hidden md:block  ">
+     <div className=" text-lg mx-10 pt-2 hidden md:block">
         <ul className="flex md:gap-x-20 ">
             <li className="hover:underline underline-offset-[1.6rem] cursor-pointer decoration-4 decoration-green-600" >Home</li>
             <li className="hover:underline underline-offset-[1.6rem] cursor-pointer decoration-4 decoration-green-600">About</li>
