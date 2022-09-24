@@ -1,11 +1,11 @@
 const Navbar = () => {
-    return ( 
-        <nav>
-            <ul>
-                <li>klhhh</li>
-            </ul>
-        </nav>
-     );
-}
- 
+  return (
+    <nav>
+     <picture>
+        {/* <img src={} alt=""/> */}
+     </picture>
+    </nav>
+  );
+};
+
 export default Navbar;
