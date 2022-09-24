@@ -549,6 +549,22 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.inline-block {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-self-center {
+  justify-self: center;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
