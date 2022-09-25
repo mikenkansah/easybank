@@ -8,7 +8,7 @@ const NextGeneration = () => {
     <section className="flex flex-col px-10 md:flex-row relative">
        <article className="">
          <h1 className="text-[70px] inline-block font-bold  mt-[10rem]">
-          Next Generation <br></br>
+          Next Generation <br></br> digital banking
          </h1>
             <p className="font-normal">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br></br>{" "}
