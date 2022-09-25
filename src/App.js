@@ -3,9 +3,11 @@ import Navbar from './components/Navbar';
 import NextGeneration from './components/NextGeneration';
 
 function App() {
+  const app = new Date();
+  const date = app.getFullYear();
   return (
     <div className="App">
-    <Navbar />
+    <Navbar name={date}/>
     <NextGeneration/>
     </div>
   );

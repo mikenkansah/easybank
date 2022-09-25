@@ -593,6 +593,10 @@ video {
   top: 0.5rem;
 }
 
+.right-10 {
+  right: 2.5rem;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -646,6 +650,26 @@ video {
 
 .ml-52 {
   margin-left: 13rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mt-\[5\] {
+  margin-top: 5;
+}
+
+.mt-\[5\%\] {
+  margin-top: 5%;
+}
+
+.mt-\[10\%\] {
+  margin-top: 10%;
+}
+
+.mt-\[10rem\] {
+  margin-top: 10rem;
 }
 
 .box-border {
@@ -873,6 +897,22 @@ video {
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
+}
+
+.text-\[3rem\] {
+  font-size: 3rem;
+}
+
+.text-\[7rem\] {
+  font-size: 7rem;
+}
+
+.text-\[5rem\] {
+  font-size: 5rem;
+}
+
+.text-\[70px\] {
+  font-size: 70px;
 }
 
 .font-bold {
