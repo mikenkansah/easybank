@@ -4,7 +4,6 @@ import Button from "./buttons/Button";
 
 
 const NextGeneration = () => {
-    
   return (
     <section className="flex flex-col px-10 md:flex-row relative">
        <article className="">
