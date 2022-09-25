@@ -6,14 +6,14 @@ import Button from "./buttons/Button";
 const NextGeneration = () => {
   return (
     <section className="flex flex-col px-10 md:flex-row relative">
-       <article className="">
-         <h1 className="text-[70px] inline-block font-bold  mt-[10rem]">
+       <article className="pb-[5rem]">
+         <h1 className="text-[5rem] inline-block font-bold mb-4 mt-[10rem]">
           Next Generation <br></br> digital banking
          </h1>
-            <p className="font-normal">
+            <p className="font-normal text-[1.2rem] mb-5 ">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br></br>{" "}
-          Voluptatum nisi expedita explicabo ad. Facilis veritatis dolores nisi
-          nihil assumenda! Dolores!
+          Voluptatum nisi expedita explicabo ad fdfdffdf.<br></br> Facilis veritatis dolores nisi
+          nihil assumenda!
             </p>
          <Button/>
       </article>
