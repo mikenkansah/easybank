@@ -5,7 +5,7 @@ import Button from "./buttons/Button";
 
 const NextGeneration = () => {
   return (
-    <section className="flex flex-col px-10 md:flex-row relative">
+    <section className="flex flex-col-reverse px-10 md:flex-row relative">
        <article className="pb-[5rem]">
          <h1 className="text-[5rem] inline-block font-bold mb-4 mt-[10rem]">
           Next Generation <br></br> digital banking
