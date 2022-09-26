@@ -3,6 +3,7 @@ import mockups from "../assets/image-mockups.png";
 import Button from "./buttons/Button";
 
 
+
 const NextGeneration = () => {
   return (
     <section className="flex flex-col-reverse px-10 md:flex-row relative">
@@ -18,10 +19,10 @@ const NextGeneration = () => {
          <Button/>
       </article>
        <figure>
-           <div className="absolute md:-mt-52   z-[0]">
+           <div className="absolute md:-mt-80 right-0 top-0 ml-16 z-[0]">
               <img className="max-w-[100]" src={desktop} alt="desktop-img" />
            </div>
-           <div className="absolute right-10 z-[10] md:-mt-32">
+           <div className="absolute  right-10 z-[10] md:-mt-32">
               <img className="max-w-[100]" src={mockups} alt="desktop-img" />
            </div>
        </figure>
