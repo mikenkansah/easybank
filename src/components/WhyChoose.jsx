@@ -8,7 +8,7 @@ const WhyChoose = () => {
             <article className="">
                 <h1 className="text-4xl font-semibold pb-5">Why Choose EasyBank?</h1> 
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias minus
-                    <br></br> nesciunt quam tenetur cumque iure!</p>
+                    <br></br> nesciunt quam tenr cumque iure!</p>
             </article>
           <div className="flex flex-col md:flex-row justify-center   align-middle">
             <article>
@@ -16,7 +16,7 @@ const WhyChoose = () => {
                   <img className="max-w-[100]" src={firstpic} alt=""/>
                 </div>
                 <h1>Digital banking</h1>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?</p>
+                <p>Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?</p>
             </article>
             <article>
                 <div className="">
