@@ -8,7 +8,7 @@ const WhyChoose = () => {
             <article className="">
                 <h1 className="text-4xl font-semibold pb-5">Why Choose EasyBank?</h1> 
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias minus
-                    <br></br> nesciunt quam tenetur cumque iure!</p>
+                    <br></br> nesciunt quam tenetur cumqu iure!</p>
             </article>
           <div className="flex flex-col md:flex-row justify-center   align-middle">
             <article>
