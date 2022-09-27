@@ -16,7 +16,7 @@ const WhyChoose = () => {
                   <img className="max-w-[100]" src={firstpic} alt=""/>
                 </div>
                 <h1>Digital banking</h1>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?</p>
+                <p>Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?</p>
             </article>
             <article>
                 <div className="">
