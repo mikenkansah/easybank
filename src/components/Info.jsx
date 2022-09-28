@@ -10,17 +10,23 @@ const info = [
     body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
   },
   {
-    id: 1,
+    id: 2,
     img: secondpic,
     heading: "Digital banking",
     body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
   },
   {
-    id: 1,
+    id: 3,
     img: thirdpic,
     heading: "Digital banking",
     body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
   },
+  {
+    id: 4,
+    img: thirdpic,
+    heading: "Digital banking",
+    body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
+  }
 ];
 
 
