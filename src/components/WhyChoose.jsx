@@ -15,6 +15,7 @@ const WhyChoose = () => {
         {info.map((infos) => {
           return (
             <Information
+              key={infos.id}
               img={infos.img}
               heading={infos.heading}
               body={infos.body}
