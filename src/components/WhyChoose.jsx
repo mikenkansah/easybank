@@ -11,7 +11,7 @@ const WhyChoose = () => {
           <br></br> nesciunt quam tenr cumque iure!
         </p>
       </article>
-      <div className="flex flex-col md:flex-row justify-center   align-middle">
+      <div className="flex flex-col md:flex-row justify-center align-middle">
         {info.map((infos) => {
           return (
             <Information
