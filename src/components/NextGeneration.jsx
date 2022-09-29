@@ -23,12 +23,8 @@ const NextGeneration = () => {
       </div> */}
        <figure>
          <div>
-            
          <img className="max-w-[100] absolute md:-mt-80 right-[-17rem] top-0 ml-16 z-[0] " src={desktop} alt="desktop-img" />
-         <div className="overflow-none">  
-               <img className="max-w-[100] absolute md:-mt-40 right-10 z-[10] " src={mockups} alt="desktop-img" />
-         </div>
-    
+         <img className="max-w-[100] absolute md:-mt-40 right-10 z-[10] " src={mockups} alt="desktop-img" />
          </div>
        
         
