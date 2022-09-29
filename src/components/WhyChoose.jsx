@@ -3,8 +3,8 @@ import info from "./Info";
 
 const WhyChoose = () => {
   return (
-    <section className="bg-slate-100 px-10 pt-[7rem]">
-      <article className="">
+    <section className="bg-slate-100 px-10 pb-16 pt-[7rem]">
+      <article className="mb-16">
         <h1 className="text-4xl font-semibold pb-5">Why Choose EasyBank?</h1>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias minus
