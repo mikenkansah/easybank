@@ -12,7 +12,6 @@ const LatestArticles = () => {
                 <ArticlesInfo key={article.id} img={article.img} small={article.small} body={article.body} heading={article.heading}/>
             )
         })}
- 
         
       </div>
     </section>

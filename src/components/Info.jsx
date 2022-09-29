@@ -5,6 +5,9 @@ import firstimage from '../assets/image-restaurant.jpg';
 import secondimage from '../assets/image-plane.jpg';
 import thirdimage from '../assets/image-currency.jpg';
 import fourthimage from '../assets/image-confetti.jpg';
+
+
+//populate the whyChoose page with these informations
 const info = [
   {
     id: 1,
@@ -32,7 +35,7 @@ const info = [
   }
 ];
 
-//populate the latest article page
+//populate the latest article page with the latest articles
 const infoarticles = [
   {
     id: 1,
