@@ -41,7 +41,7 @@ const infoarticles = [
     id: 1,
     img: firstimage,
     small: 'By Claire Robinson',
-    heading: "Recieve any money with no stress",
+    heading: "Recieve money in any currency with no stress",
     body: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto illo eaque cum saepe, quaerat quidem. Optio fuga quis illum est.",
   },
   {
