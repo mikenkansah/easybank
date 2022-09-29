@@ -12,25 +12,25 @@ const info = [
   {
     id: 1,
     img: firstpic,
-    heading: "Digital banking",
+    heading: "Online banking",
     body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
   },
   {
     id: 2,
     img: secondpic,
-    heading: "Digital banking",
+    heading: "Simple Budgeting",
     body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
   },
   {
     id: 3,
     img: thirdpic,
-    heading: "Digital banking",
+    heading: "Faste Onboarding",
     body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
   },
   {
     id: 4,
     img: thirdpic,
-    heading: "Digital banking",
+    heading: "Open API",
     body: "Lorem ipsum dolor sit, am consectetur adipisicing elit. Minus explicabo ex deleniti possimus consectetur tempora dolorem eligendi repellat culpa dignissimos?",
   }
 ];

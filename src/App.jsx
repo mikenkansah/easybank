@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import NextGeneration from './components/NextGeneration';
 import WhyChoose from './components/WhyChoose';
 import LatestArticles from './components/LatestArticles';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <NextGeneration/>
     <WhyChoose/>
     <LatestArticles/>
+    <Footer/>
     </div>
   );
 }
