@@ -41,14 +41,14 @@ const infoarticles = [
     id: 1,
     img: firstimage,
     small: 'By Claire Robinson',
-    heading: "",
+    heading: "Treat yourself without worrying about money",
     body: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto illo eaque cum saepe, quaerat quidem. Optio fuga quis illum est.",
   },
   {
     id: 2,
     img: secondimage,
     small: 'By Claire Robinson',
-    heading: "Recieve any money with no stress",
+    heading: "Take Your EasyBank card wherever you go",
     body: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto illo eaque cum saepe, quaerat quidem. Optio fuga quis illum est.",
   },
   {
@@ -62,7 +62,7 @@ const infoarticles = [
     id: 4,
     img: fourthimage,
     small: 'By Claire Robinson',
-    heading: "Recieve any money with no stress",
+    heading: "On-site only Beta accounts are now live",
     body: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto illo eaque cum saepe, quaerat quidem. Optio fuga quis illum est.",
   },
 ]
