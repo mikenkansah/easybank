@@ -6,7 +6,7 @@ import Button from "./buttons/Button";
 
 const NextGeneration = () => {
   return (
-    <section className="flex flex-col-reverse justify-between px-10 md:flex-row relative">
+    <section className="flex flex-col-reverse justify-between px-10 md:flex-row relative overflow-hidden">
        <article className="pb-[5rem]">
          <h1 className="text-[5rem] inline-block font-bold mb-4 mt-[10rem]">
           Next Generation <br></br> digital banking
@@ -22,12 +22,16 @@ const NextGeneration = () => {
          <img src={mockups} alt=""/>
       </div> */}
        <figure>
-           <div className="absolute md:-mt-80 right-0 top-0 ml-16 z-[0]">
-              <img className="max-w-[100]" src={desktop} alt="desktop-img" />
-           </div>
-           <div className="absolute  right-10 z-[10] md:-mt-32">
-              <img className="max-w-[100]" src={mockups} alt="desktop-img" />
-           </div>
+         <div>
+            
+         <img className="max-w-[100] absolute md:-mt-80 right-[-17rem] top-0 ml-16 z-[0] " src={desktop} alt="desktop-img" />
+         <div className="overflow-none">  
+               <img className="max-w-[100] absolute md:-mt-40 right-10 z-[10] " src={mockups} alt="desktop-img" />
+         </div>
+    
+         </div>
+       
+        
        </figure>
     </section>
   );
