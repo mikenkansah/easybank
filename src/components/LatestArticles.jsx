@@ -3,6 +3,7 @@ import {infoarticles} from './Info';
 
 
 const LatestArticles = () => {
+   
   return (
     <section className="px-10 py-20">
       <h1 className="text-4xl text-bold pb-10">Latest Articles</h1>
