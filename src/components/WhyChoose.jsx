@@ -3,7 +3,7 @@ import info from "./Info";
 
 const WhyChoose = () => {
   return (
-    <section className="bg-slate-100 px-10 py-10 pb-[7rem] pt-[7rem]">
+    <section className="bg-slate-100 px-10 py-[7rem] ">
       <article className="mb-16">
         <h1 className="text-4xl font-semibold pb-5">Why Choose EasyBank?</h1>
         <p>
