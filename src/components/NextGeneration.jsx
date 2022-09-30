@@ -18,9 +18,6 @@ const NextGeneration = () => {
             </p>
          <Button/>
       </article>
-      {/* <div>
-         <img src={mockups} alt=""/>
-      </div> */}
        <figure>
          <div>
          <img className="max-w-[100] md:absolute md:-mt-80 md:right-[-17rem] md:top-0 ml-16 z-[0] " src={desktop} alt="desktop-img" />
