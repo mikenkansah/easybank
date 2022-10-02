@@ -17,7 +17,7 @@ const Navbar = () => {
             <li className="hover:underline underline-offset-[1.6rem] cursor-pointer decoration-4 decoration-green-600">Careers</li>
         </ul>
      </div>
-    <Button/>
+    <Button name="Request Invite"/>
     </nav>
   );
 };

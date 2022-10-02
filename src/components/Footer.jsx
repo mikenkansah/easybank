@@ -31,7 +31,7 @@ const Footer = () => {
           <h4>Privacy Policy</h4>
         </div>
         <div className="text-white">
-         <Button/>
+         <Button name="Contact Us"/>
       
           <h4>&copy; EasyBank All rights reserved</h4>
         </div>
