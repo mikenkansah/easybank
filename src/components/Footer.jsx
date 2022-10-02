@@ -21,7 +21,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-white">
-          <h4>Facebook</h4>
+          <h4>Faceook</h4>
           <h4>Facebook</h4>
           <h4>Facebook</h4>
         </div>
