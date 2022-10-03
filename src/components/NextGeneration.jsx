@@ -3,7 +3,6 @@ import mockups from "../assets/image-mockups.png";
 import Button from "./buttons/Button";
 
 
-
 const NextGeneration = () => {
   return (
     <section className="flex flex-col-reverse justify-between px-10 md:flex-row relative overflow-hidden">
