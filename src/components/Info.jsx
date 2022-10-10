@@ -3,7 +3,6 @@ import secondpic from "../assets/icon-api.svg";
 import thirdpic from "../assets/icon-onboarding.svg";
 import firstimage from '../assets/image-restaurant.jpg';
 import secondimage from '../assets/image-plane.jpg';
-import thirdimage from '../assets/image-currency.jpg';
 import fourthimage from '../assets/image-confetti.jpg';
 
 
@@ -53,7 +52,7 @@ const infoarticles = [
   },
   {
     id: 3,
-    img: thirdimage,
+    img: firstimage,
     small: 'By Claire Robinson',
     heading: "Recieve money in any currency with no stress",
     body: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto illo eaque cum saepe, quaerat quidem. Optio fuga quis illum est.",
