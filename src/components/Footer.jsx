@@ -12,8 +12,8 @@ const Footer = () => {
       <div className="flex flex-col md:flex-row md:justify-between align-center ">
         <div>
           <img alt="" src={logo} />
-          <div className="flex flex-row justify-between">
-            <img alt="" src={facebook} />
+          <div className="flex flex-row justify-between hover:cursor-pointer ">
+            <img alt="" className=" hover:text-green-400s"src={facebook} />
             <img alt="" src={instagram} />
             <img alt="" src={twitter} />
             <img alt="" src={youtube} />
