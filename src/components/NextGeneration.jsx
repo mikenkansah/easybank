@@ -15,7 +15,7 @@ const NextGeneration = () => {
           Voluptatum nisi expedita explicabo ad fdfdffdf.<br></br> Facilis veritatis dolores nisi
           nihil assumenda!
             </p>
-         <Button/>
+         <Button name="Request Invite"/>
       </article>
        <figure>
          <div>
